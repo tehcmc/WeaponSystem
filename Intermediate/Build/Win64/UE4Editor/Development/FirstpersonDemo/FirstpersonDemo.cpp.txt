@@ -1,0 +1,2 @@
+C:\Users\craig\Documents\Unreal Projects\FirstpersonDemo\Intermediate\Build\Win64\UE4Editor\Development\FirstpersonDemo\Definitions.FirstpersonDemo.h
+C:\Users\craig\Documents\Unreal Projects\FirstpersonDemo\Source\FirstpersonDemo\FirstpersonDemo.h
